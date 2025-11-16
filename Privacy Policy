@@ -1,0 +1,51 @@
+# Music Sheet Hero – Privacy Policy
+
+Last updated: 16.11.2025
+
+## Who we are
+Music Sheet Hero is a music sight-reading education app. Contact: dusan.rajlic [with numbers: ONE] [at] gmail.com.
+
+## Children’s Privacy
+- This app is suitable for and may be used by children.
+- We do not knowingly collect personal information from children beyond what is reasonably necessary to operate the app.
+- Parents/guardians can contact us at [EMAIL] to review or request deletion of any information related to their child.
+
+## Data We Collect and Why
+- Usage telemetry (non-identifying): event names like `session_started`, `session_completed`, `session_abandoned`, `highscores_viewed`, `highscores_cleared`, `toast_shown`, and the platform (iOS/Android). Purpose: basic product diagnostics and improvement.
+- Local-only data on device: high scores and app preferences (e.g., zoom level, settings like solfege/labels) stored locally using AsyncStorage to provide app functionality.
+
+## What We Do NOT Collect
+- No names, email addresses, phone numbers, photos, precise location, contacts, or payment info.
+- No microphone recording; audio is playback only.
+- No advertising identifiers; no behavioral ads or third‑party ad tracking.
+
+## Data Sharing and Storage
+- Telemetry is sent to our private Google Sheets endpoint and not shared with external parties except as required by law.
+- We do not sell personal data.
+
+## Parental Rights
+Parents/guardians can:
+- Request access to telemetry entries reasonably linkable to use of the app,
+- Request deletion of such entries,
+- Withdraw consent to further collection by contacting the listed contact.
+We will respond within a reasonable timeframe.
+
+## International Users
+Data may be processed and stored in Austria/EU. By using the app, you consent to this processing.
+
+## Security
+We apply reasonable administrative, technical, and physical safeguards appropriate for the limited data we collect.
+
+## Retention
+Telemetry is retained only as long as necessary for diagnostics and service improvement, then deleted or de-identified. Local device data remains on your device until you clear it or delete the app.
+
+## Your Choices
+- You can disable telemetry by not using the app or contacting us for deletion requests of previously logged events.
+- Delete the app to remove on-device data.
+
+## Changes
+We may update this policy from time to time. We will update the “Last updated” date above.
+
+## Contact
+Dusan Rajlic  
+dusan.rajlic [with numbers: ONE] [at] gmail.com
