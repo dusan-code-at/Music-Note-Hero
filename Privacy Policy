@@ -1,51 +1,102 @@
-# Music Sheet Hero – Privacy Policy
+Privacy Policy for Music Note Hero
 
-Last updated: 16.11.2025
+Last updated: 20.11.2025
 
-## Who we are
-Music Sheet Hero is a music sight-reading education app. Contact: dusan.rajlic [with numbers: ONE] [at] gmail.com.
+Thank you for playing Music Note Hero (“the App”).
+This Privacy Policy explains what data the App does or does not collect, how it is used, and your rights under global privacy regulations, including the EU General Data Protection Regulation (GDPR).
 
-## Children’s Privacy
-- This app is suitable for and may be used by children.
-- We do not knowingly collect personal information from children beyond what is reasonably necessary to operate the app.
-- Parents/guardians can contact us at [EMAIL] to review or request deletion of any information related to their child.
+Contact Email: dusan.rajlic [with number: ONE]@gmail.com
 
-## Data We Collect and Why
-- Usage telemetry (non-identifying): event names like `session_started`, `session_completed`, `session_abandoned`, `highscores_viewed`, `highscores_cleared`, `toast_shown`, and the platform (iOS/Android). Purpose: basic product diagnostics and improvement.
-- Local-only data on device: high scores and app preferences (e.g., zoom level, settings like solfege/labels) stored locally using AsyncStorage to provide app functionality.
+1. Data Collection Overview
 
-## What We Do NOT Collect
-- No names, email addresses, phone numbers, photos, precise location, contacts, or payment info.
-- No microphone recording; audio is playback only.
-- No advertising identifiers; no behavioral ads or third‑party ad tracking.
+Music Note Hero is designed with user privacy in mind.
 
-## Data Sharing and Storage
-- Telemetry is sent to our private Google Sheets endpoint and not shared with external parties except as required by law.
-- We do not sell personal data.
+1.1. Personal Data
 
-## Parental Rights
-Parents/guardians can:
-- Request access to telemetry entries reasonably linkable to use of the app,
-- Request deletion of such entries,
-- Withdraw consent to further collection by contacting the listed contact.
-We will respond within a reasonable timeframe.
+The App does NOT collect, store, or process any personal data.
+We do not request or access:
 
-## International Users
-Data may be processed and stored in Austria/EU. By using the app, you consent to this processing.
+Name
 
-## Security
-We apply reasonable administrative, technical, and physical safeguards appropriate for the limited data we collect.
+Email address
 
-## Retention
-Telemetry is retained only as long as necessary for diagnostics and service improvement, then deleted or de-identified. Local device data remains on your device until you clear it or delete the app.
+Location data
 
-## Your Choices
-- You can disable telemetry by not using the app or contacting us for deletion requests of previously logged events.
-- Delete the app to remove on-device data.
+Contacts
 
-## Changes
-We may update this policy from time to time. We will update the “Last updated” date above.
+Advertising identifiers
 
-## Contact
-Dusan Rajlic  
-dusan.rajlic [with numbers: ONE] [at] gmail.com
+Device identifiers linked to you
+
+1.2. Optional Anonymous Gameplay Events
+
+If applicable in certain builds of the App, Music Note Hero may collect anonymous, non-personal gameplay events solely to improve the game’s performance and user experience. These events may include:
+
+session_started — anonymous event triggered when gameplay begins
+
+session_end — anonymous event triggered when gameplay ends
+
+premium_clicked — anonymous event showing interactions with premium features or buttons
+
+note_telemetry — anonymous event describing gameplay actions (e.g., notes hit/missed), without identifying the player
+
+These events contain no personal information, cannot identify you, and are never used for tracking or advertising.
+
+2. How Anonymous Data Is Used
+
+If these anonymous events are collected, they may be used for:
+
+Understanding gameplay flow
+
+Improving difficulty balancing
+
+Identifying bugs or performance issues
+
+Enhancing game design
+
+Understanding feature usage
+
+We do not sell data, share data with advertisers, or use data for profiling.
+
+3. Legal Basis (GDPR)
+
+If anonymous gameplay telemetry is collected, it is processed under:
+
+Legitimate Interest
+To ensure the App functions properly and to improve user experience.
+This data does not identify you in any way.
+
+Since no personal data is collected, GDPR rights concerning identifiable information do not apply in most cases.
+
+4. Third-Party Services
+
+Music Note Hero may use platform-provided analytics or crash reporting tools (e.g., Apple’s built-in services).
+These tools collect only anonymized technical information required to maintain app stability and performance.
+
+No advertising networks or trackers are used.
+
+5. International Data Transfers
+
+If anonymous telemetry is processed by third-party tools, it may be transferred internationally according to their security and compliance standards (such as GDPR SCCs).
+No personal data is ever transferred.
+
+6. Children’s Privacy
+
+The App does not collect personal data from any users, including children.
+Anonymous gameplay events contain no identifiable information.
+
+7. Security
+
+We use reasonable technical measures to ensure that any anonymous data handled by the App or its providers is secure.
+Because no personal information is processed, risk to users is extremely low.
+
+8. Changes to This Policy
+
+This Privacy Policy may be updated. Updates will be published in the App Store listing or inside the App.
+Continued use of the App constitutes acceptance of any changes.
+
+9. Contact
+
+If you have any questions about this Privacy Policy, contact us:
+
+Contact Email: dusan.rajlic [with number: ONE]@gmail.com
